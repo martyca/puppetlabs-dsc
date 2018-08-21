@@ -3,3 +3,4 @@ fixtures:
     reboot: "puppetlabs/reboot"
   symlinks:
     "dsc": "#{source_dir}"
+asdfasdfasdf
